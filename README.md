@@ -1,5 +1,4 @@
-### Hi there 👋 ,I'm Kiran Ganesh Korada
-
+### Hi there 👋, I'm Kiran Ganesh Korada
 # 💫 About Me:
 🌱 I’m currently learning Django and mastering DSA. Looking forward to explore<br>data science, machine learning, etc.,
 
@@ -13,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=KiranGaneshKorada&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KiranGaneshKorada&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranGaneshKorada&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KiranGaneshKorada&icon=0&color=0)](https://visitcount.itsvg.in)
