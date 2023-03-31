@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kiran Ganesh Korada
 # 💫 About Me:
-🌱 I’m currently working on Django and mastering DSA. Looking forward to explore machine learning, Deep Learning and Python related stuff.
+🌱 I’m currently working on Django and mastering DSA. Looking forward to explore Machine Learning, Deep Learning and Python related stuff.
 
 
 ## 🌐 Socials:
