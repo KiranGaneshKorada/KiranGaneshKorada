@@ -21,6 +21,5 @@
 <a href="https://auth.geeksforgeeks.org/user/kiranganeshk2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kiranganeshk2004" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranganeshkorada&label=Profile%20views&color=0e75b6&style=flat" alt="kiranganeshkorada" /> </p>
 
 
