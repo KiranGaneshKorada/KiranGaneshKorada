@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kiran Ganesh Korada</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently Mastering **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiranGaneshKorada?tab=repositories](https://github.com/KiranGaneshKorada?tab=repositories)
 
-- 💬 Ask me about **Django and Django REST Framework**
+- 💬 Ask me about **Django, Django REST Framework and React**
 
 - 📫 How to reach me **kiranganeshkorada@gmail.com**
 
