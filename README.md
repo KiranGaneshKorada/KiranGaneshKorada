@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Ganesh Korada</h1>
 
-- 🌱 I’m currently Working on some **Projects** and **DSA**.
+- 🌱 I’m currently Working on some **Full Stack Projects** and **DSA**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiranGaneshKorada?tab=repositories](https://github.com/KiranGaneshKorada?tab=repositories)
 
