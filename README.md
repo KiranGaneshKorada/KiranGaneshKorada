@@ -3,11 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranganeshkorada&label=Profile%20views&color=0e75b6&style=flat" alt="kiranganeshkorada" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/KiranGaneshKorada?tab=repositories](https://github.com/KiranGaneshKorada?tab=repositories)
-- 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiran-ganesh-korada-307408260/details/experience/](https://www.linkedin.com/in/kiran-ganesh-korada-307408260/details/experience/)
-- 
 - 💬 Ask me about **Nextjs, Django, Django REST Framework and React**
-- 
 - 📫 How to reach me **kiranganeshkorada@gmail.com**
 
 
